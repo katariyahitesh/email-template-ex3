@@ -1,0 +1,196 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing:border-box;
+}
+.logo{
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(250, 242, 250);
+}
+.hero{
+     max-width: 600px;   
+     width: 100%;
+     margin: 0 auto;
+     text-align: center;
+     background-color: rgb(235, 199, 235);
+
+}
+.title{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.heroContainer{
+    height: 360px; ;
+    max-width:504px ;
+    width: 100%;
+   background-image: url("img_1.jpg");
+   background-size: cover;
+   background-position: center;
+
+}
+.Text{
+    max-width:504px ;
+    width: 100%;
+}
+.button{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.buttoncolor{
+    background-color: rgb(186, 250, 250);
+}
+/* fream */
+.fream{
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: rgb(235, 199, 235);
+}
+.section_1{
+    max-width: 600px;
+    width: 100%;
+}
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.innercard_1,.innercard_2{
+    max-width: 284px;
+    width: 100%;
+    margin-bottom: px;
+
+}
+.frame1{
+    max-width: 252px;
+    width: 100%;
+    margin-top: 23px;
+}
+.img_01{
+    height: 252px;
+    max-width: 252px;
+    width: 100%;
+    background-image: url("img_2.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.img_02{
+    height: 252px;
+    max-width: 252px;
+    width: 100%;
+    background-image: url("img_1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+pre{
+    text-align: center;
+    max-width: 252px;
+    width: 100%;
+    margin:0 auto;
+}
+.fream_pre{
+    margin-top: 15px;
+}
+.button_1{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(175, 159, 233);
+}
+/* SECTION */
+.section{
+    max-width: 600px;
+    width: 100%;
+    height: 316px;
+    background-color: rgb(201, 194, 194);
+}
+.cardsection{
+    max-width: 600px;
+    width: 100%;
+    height: 316px;
+    display: flex;
+}
+
+  
+
+.freamsection_1{
+    max-width: 300px;
+    width: 100%;
+    height: 342px;
+    display: flex;
+    align-items: center;
+
+}
+.freamsection_01{
+    max-width: 300px;
+    width: 100%;
+    height: 214px;
+    margin-top: 30px;
+    margin-left: 20px;
+
+}
+.section_button{
+    margin-top: 20px;
+    background-color: rgb(146, 146, 221);
+}
+.freamsection_2{
+    max-width: 300px;
+    width: 100%;
+    height:316px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img_04{
+    height: 250;
+    max-width: 216px;
+    width: 100%px;
+    background-image: url("img_4.jpg")
+}
+
+
+
+
+/* footer */
+.line_1{
+    height: 2px;
+    max-width: 1037px;
+    width: 100%;
+    border: 1px solid black;
+}
+.footer{
+    max-width: 544px;   
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+ }
+ .footercontent{
+ 
+    width: 100%;
+ }
+ .info{
+   
+    width: 100%;
+    
+ }
+ .infoContainer{
+    margin-top: 20px;
+    max-width: 600px;
+    width: 100%;
+ }
+ .Paregraf{
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+ }
+ .socialContainer{
+    max-width:  600px ;
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+ }
